@@ -1,0 +1,23 @@
+body {
+
+}
+
+.odd {
+   font-family: Verdana, sans-serif;
+   background-color: pink;
+}
+
+.cooler {
+   font-size:20px;
+}
+
+#two {
+   font-size: 40px;
+   color: blue;
+}
+
+#four {
+   font-size: 24px;
+   font-weight: 700;
+   background-color: greenyellow;
+}
