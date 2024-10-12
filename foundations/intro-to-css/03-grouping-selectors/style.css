@@ -1,9 +1,9 @@
 .emphasis,
 .standard {
    border: 1px solid black;
+   font-family: 'Helvetica', 'Times New Roman', sans-serif;
    font-size: medium;
 }
-
 .standard {
    background-color: black;
    color:aliceblue;
@@ -11,4 +11,3 @@
 .emphasis {
    background-color: yellow;
 }
-
